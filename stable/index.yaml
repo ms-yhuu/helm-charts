@@ -3,12 +3,12 @@ entries:
   ke-load-balancer-controller:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-02-16T15:42:51.357108+09:00"
+    created: "2024-02-16T16:09:02.214064+09:00"
     description: A Helm chart for Kubernetes
-    digest: d3447bbecfbc4e817b0dd176c934a527e801f39b71985f75bf66399304aaaeeb
+    digest: 583322b28e4a2e2ff31a85a0d7f83eb500dedbea92189d7d828b9ed04cb10276
     name: ke-load-balancer-controller
     type: application
     urls:
     - https://ms-yhuu.github.io/helm-charts/stable/ke-load-balancer-controller-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-16T15:42:51.356627+09:00"
+generated: "2024-02-16T16:09:02.213414+09:00"
